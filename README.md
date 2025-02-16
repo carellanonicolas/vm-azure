@@ -116,7 +116,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
 
 
-🎉Congratulations! You have created your first virtual machine within Azure!🎉
+Congratulations! You have created your first virtual machine within Azure!
 
 <p align="center">
 <img src="https://i.imgur.com/rEBpL8Y.png" height="80%" width="80%" alt="Azure Free Account"/>
