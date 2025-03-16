@@ -123,5 +123,5 @@ Congratulations! You have created your first virtual machine within Azure!
 
 <h3>Tip</h3>
 
--  If you want to save your free $200 credits, make sure you delete ALL resource groups after finishing!    
+-  If you want to save your free $200 credits, make sure you delete ALL resource groups after finishing!
   
